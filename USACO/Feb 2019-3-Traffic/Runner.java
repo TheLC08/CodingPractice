@@ -11,6 +11,5 @@ public class Runner{
             line.add(a);
         }
         sc.close();
-        
     }
 }
